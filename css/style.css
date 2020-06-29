@@ -21,13 +21,16 @@ nav {
 h1 {
   font-size: 4rem;
   padding: 1%;
+  color: #900c3f;
 }
 h3 {
   text-align: center;
   font-size: 1.7rem;
+  color: #900c3f;
 }
 h2 {
   font-size: 3rem;
+  color: #900c3f;
 }
 .btn-light {
   font-weight: 600;
