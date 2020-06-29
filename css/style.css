@@ -7,12 +7,12 @@ ul {
   justify-content: space-evenly;
 }
 nav {
-  border-bottom: 3px solid #900c3f;
-  background-color: #900c3f;
+  border-bottom: 3px solid #010101;
+  background-color: #010101;
   z-index: 2;
 }
 .navbar-brand {
-  border-right: 1.5px solid #900c3f;
+  border-right: 1.5px solid #010101;
   padding-right: 1.5%;
 }
 .nav-item {
@@ -21,20 +21,20 @@ nav {
 h1 {
   font-size: 4rem;
   padding: 1%;
-  color: #900c3f;
+  color: #010101;
 }
 h3 {
   text-align: center;
   font-size: 1.7rem;
-  color: #900c3f;
+  color: #010101;
 }
 h2 {
   font-size: 3rem;
-  color: #900c3f;
+  color: #010101;
 }
 .btn-light {
   font-weight: 600;
-  color: #900c3f;
+  color: #010101;
 }
 
 .shipping-row {
@@ -59,14 +59,14 @@ h2 {
   left: 0;
   right: 0;
   padding: 3%;
-  color: #900c3f;
-  box-shadow: 0 3px 7px 0 #900c3f, 0 5px 15px 0 #900c3f;
+  color: #010101;
+  box-shadow: 0 3px 7px 0 #010101, 0 5px 15px 0 #010101;
   border-radius: 2rem;
 }
 .card {
-  border: 3px solid #900c3f;
+  border: 3px solid #010101;
   margin: 3%;
-  box-shadow: 0 3px 7px 0 #900c3f, 0 5px 15px 0 #900c3f;
+  box-shadow: 0 3px 7px 0 #010101, 0 5px 15px 0 #010101;
 }
 .card p{
   font-weight: 700;
@@ -78,7 +78,7 @@ h2 {
   text-align: center;
 }
 .contact a{
-  color: #900c3f;
+  color: #010101;
 }
 
 .product-cards{
@@ -91,7 +91,7 @@ h2 {
   height: 21rem;
 }
 .price{
-  border-bottom: 2px solid #900c3f;
+  border-bottom: 2px solid #010101;
   width: fit-content;
   text-align: center;
 }
@@ -103,7 +103,7 @@ h2 {
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #900c3f;
+  background-color: #010101;
   height: 2rem;
   color: white;
   text-align: center;
